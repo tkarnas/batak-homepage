@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  height: 100vh;
+}
+
+body {
+  background-color: rgb(26, 26, 26);
+  background-image: url("/img/background-batak3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  width: 70vw;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  height: 10vh;
+  padding-top: 2vh;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.295);
+  padding: 14px 0;
+  text-align: center;
+}
+
+main {
+  height: 30vh;
+  text-align: center;
+  padding: 80px 240px 0 240px;
+}
+
+section {
+  height: 45vh;
+  text-align: center;
+  padding-bottom: ;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.616);
+  height: 10vh;
+  text-align: center;
+}
+h1 {
+  font-size: 5rem;
+  color: rgba(0, 0, 0, 0.767);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 1.3rem;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.4rem;
+}
+nav a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  padding: 0 15px;
+}
+
+footer p {
+  font-size: 0.7rem;
+  padding: 4.5vh;
+  color: rgba(255, 255, 255, 0.603);
+}
+
+header img {
+  height: 6vh;
+}
+
+iframe {
+  margin-bottom: 8vh;
+}
